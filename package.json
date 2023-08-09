@@ -1,0 +1,27 @@
+{
+  "name": "adapter-aspnetcore-api",
+  "version": "0.0.1",
+  "description": "A Sveltekit Adapter for ASP.NET Core Web API Servers",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustBarnt/adapter-aspnetcore-api.git"
+  },
+  "keywords": [
+    "sveltekit",
+    "js",
+    "svelte",
+    "dotnet",
+    "aspnetcore",
+    "api"
+  ],
+  "author": "JustBarnt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustBarnt/adapter-aspnetcore-api/issues"
+  },
+  "homepage": "https://github.com/JustBarnt/adapter-aspnetcore-api#readme"
+}
